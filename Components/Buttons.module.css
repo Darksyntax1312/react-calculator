@@ -1,0 +1,22 @@
+.Button{
+    font-size:30px;
+    width:70px;
+    height:65px;
+    font-weight:700;
+    border-radius:5px;
+    border:2px solid rgb(144, 142, 142);
+    /* color:rgb(47, 50, 223);*/
+    color:#f0f0f0;
+    background-color:	rgba(255,255,255,0.08);
+    border:none;
+    outline:none;
+}
+
+.buttonContainer{
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+    justify-content:center;
+    padding-top:25px;
+    padding-bottom:20px;
+}

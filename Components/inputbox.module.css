@@ -1,0 +1,15 @@
+.inputBox {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.Display {
+  font-size: 22px;
+  text-align: right;
+  height: 50px;
+  border-radius: 5px;
+  border:2px solid rgba(117, 115, 115, 0.692);
+  background-color:rgba(0,0,0,0.4);
+  color:#ffffff;
+}
